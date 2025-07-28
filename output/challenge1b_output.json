@@ -1,0 +1,103 @@
+{
+    "Metadata": {
+        "Input documents": [
+            "Learn Acrobat - Create and Convert_1.pdf",
+            "Learn Acrobat - Create and Convert_2.pdf",
+            "Learn Acrobat - Edit_1.pdf",
+            "Learn Acrobat - Edit_2.pdf",
+            "Learn Acrobat - Export_1.pdf",
+            "Learn Acrobat - Export_2.pdf",
+            "Learn Acrobat - Fill and Sign.pdf",
+            "Learn Acrobat - Generative AI_1.pdf",
+            "Learn Acrobat - Generative AI_2.pdf",
+            "Learn Acrobat - Request e-signatures_1.pdf",
+            "Learn Acrobat - Request e-signatures_2.pdf",
+            "Learn Acrobat - Share_1.pdf",
+            "Learn Acrobat - Share_2.pdf",
+            "Test Your Acrobat Exporting Skills.pdf",
+            "The Ultimate PDF Sharing Checklist.pdf"
+        ],
+        "Persona": "HR professional",
+        "Job to be done": "Create and manage fillable forms for onboarding and compliance.",
+        "Processing timestamp": "2025-07-28T18:05:53.599250"
+    },
+    "Extracted Section": [
+        {
+            "Document": "Learn Acrobat - Fill and Sign.pdf",
+            "Page number": 8,
+            "Section title": "Fill in PDF Forms",
+            "Importance_rank": 1
+        },
+        {
+            "Document": "Learn Acrobat - Fill and Sign.pdf",
+            "Page number": 8,
+            "Section title": "Fill in interactive forms",
+            "Importance_rank": 2
+        },
+        {
+            "Document": "Learn Acrobat - Fill and Sign.pdf",
+            "Page number": 2,
+            "Section title": "Types of PDF forms",
+            "Importance_rank": 3
+        },
+        {
+            "Document": "Learn Acrobat - Fill and Sign.pdf",
+            "Page number": 8,
+            "Section title": "Is the form fillable?",
+            "Importance_rank": 4
+        },
+        {
+            "Document": "Learn Acrobat - Fill and Sign.pdf",
+            "Page number": 12,
+            "Section title": "Change flat forms to fillable (Acrobat Pro)",
+            "Importance_rank": 5
+        },
+        {
+            "Document": "Learn Acrobat - Fill and Sign.pdf",
+            "Page number": 10,
+            "Section title": "Auto-Complete forms (interactive forms",
+            "Importance_rank": 6
+        },
+        {
+            "Document": "Learn Acrobat - Fill and Sign.pdf",
+            "Page number": 2,
+            "Section title": "Fill and sign PDF forms",
+            "Importance_rank": 7
+        },
+        {
+            "Document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "Page number": 2,
+            "Section title": "others",
+            "Importance_rank": 8
+        },
+        {
+            "Document": "Learn Acrobat - Fill and Sign.pdf",
+            "Page number": 14,
+            "Section title": "Print forms",
+            "Importance_rank": 9
+        },
+        {
+            "Document": "Learn Acrobat - Fill and Sign.pdf",
+            "Page number": 2,
+            "Section title": "To fill text fields:",
+            "Importance_rank": 10
+        }
+    ],
+    "Sub-section Analysis": [
+        {
+            "Document": "Learn Acrobat - Fill and Sign.pdf",
+            "Page Number": 8,
+            "Refined Text": "Fill in PDF Forms"
+        },
+        {
+            "Document": "Learn Acrobat - Fill and Sign.pdf",
+            "Page Number": 8,
+            "Refined Text": "Fill in interactive forms \nAn interactive form contains fields that you can select or fill in. For example, \nthe Hand \n tool changes to an I-beam  when you can type text into the form field. Some text fields are dynamic, meaning that they automatically resize to accommodate \nthe amount of data you enter and can span across pages. Select anywhere in the form to access options, such as radio buttons. When finished, submit the form to either send the data to a server or create an email \nto send the data."
+        },
+        {
+            "Document": "Learn Acrobat - Fill and Sign.pdf",
+            "Page Number": 2,
+            "Refined Text": "Types of PDF forms  \n• \nInteractive forms: These contain fields that you can select and fill in. • \nFlat forms: These do not have interactive fields. The Fill & Sign tool automatically detects the \nform fields like text fields, comb fields, checkboxes, and radio buttons. You can complete the forms by entering information and adding your signatures. Acrobat \nalso allows you to send your completed forms to others and securely save them in Adobe \ncloud storage."
+        }
+    ]
+}

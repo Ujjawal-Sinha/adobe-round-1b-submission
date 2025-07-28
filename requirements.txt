@@ -1,0 +1,9 @@
+# /requirements.txt
+
+# PDF parsing and data handling
+pymupdf
+pandas
+
+# Semantic analysis for 1B
+sentence-transformers
+torch
