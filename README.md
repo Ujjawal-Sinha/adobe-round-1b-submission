@@ -10,7 +10,7 @@
 
 *1. Setup*
 
-Place your PDF files in an input/ directory. Then, install dependencies:
+Place your PDF files in an input/ directory.:
 
 ```bash
 docker build --platform linux/amd64 -t mysolutionname:somerandomidentifier .
